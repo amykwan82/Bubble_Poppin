@@ -25,7 +25,6 @@
 		C682102B25D2658300D2C061 /* LevelD.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C682102925D2658300D2C061 /* LevelD.cpp */; };
 		C682102E25D2712600D2C061 /* Effects.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C682102C25D2712600D2C061 /* Effects.cpp */; };
 		C682103325D2869900D2C061 /* hit.mp3 in Copy Files */ = {isa = PBXBuildFile; fileRef = C682103225D285EB00D2C061 /* hit.mp3 */; };
-		C682103825D2880200D2C061 /* spell.wav in Copy Files */ = {isa = PBXBuildFile; fileRef = C682103725D287F700D2C061 /* spell.wav */; };
 		C6AC50C32568B3CA00C2AD25 /* Level4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C6AC50C12568B3CA00C2AD25 /* Level4.cpp */; };
 		C6E4A95325685B0E004F383D /* Util.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C6E4A95125685B0E004F383D /* Util.cpp */; };
 		C6E4A95625685CC9004F383D /* Scene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C6E4A95425685CC9004F383D /* Scene.cpp */; };
@@ -56,7 +55,6 @@
 				C682103325D2869900D2C061 /* hit.mp3 in Copy Files */,
 				C6352FFC2586F2D600DA1926 /* portal.png in Copy Files */,
 				C6352FF32586EFB800DA1926 /* slime.png in Copy Files */,
-				C682103825D2880200D2C061 /* spell.wav in Copy Files */,
 				C6352FEF2586EFAB00DA1926 /* frank.png in Copy Files */,
 				C6352FF12586EFB100DA1926 /* bubble_5.png in Copy Files */,
 				C6352FE92586EF9500DA1926 /* voxel.mp3 in Copy Files */,
@@ -94,8 +92,6 @@
 		C682102C25D2712600D2C061 /* Effects.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Effects.cpp; sourceTree = "<group>"; };
 		C682102D25D2712600D2C061 /* Effects.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Effects.h; sourceTree = "<group>"; };
 		C682103225D285EB00D2C061 /* hit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hit.mp3; sourceTree = "<group>"; };
-		C682103725D287F700D2C061 /* spell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = spell.wav; sourceTree = "<group>"; };
-		C682103925D28B5700D2C061 /* spell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = spell.wav; sourceTree = "<group>"; };
 		C6AC50C12568B3CA00C2AD25 /* Level4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Level4.cpp; sourceTree = "<group>"; };
 		C6AC50C22568B3CA00C2AD25 /* Level4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Level4.h; sourceTree = "<group>"; };
 		C6E4A95125685B0E004F383D /* Util.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Util.cpp; sourceTree = "<group>"; };
@@ -162,10 +158,8 @@
 				C6352FE42586EF8400DA1926 /* pixel_font.png */,
 				C6352FEA2586EF9A00DA1926 /* bubble.wav */,
 				C6352FEE2586EFAA00DA1926 /* frank.png */,
-				C682103725D287F700D2C061 /* spell.wav */,
 				C6352FEC2586EFA400DA1926 /* mapPack_tilesheet.png */,
 				C6352FF02586EFB000DA1926 /* bubble_5.png */,
-				C682103925D28B5700D2C061 /* spell.wav */,
 				C6352FFB2586F2D000DA1926 /* portal.png */,
 				C6352FF22586EFB700DA1926 /* slime.png */,
 				C682103225D285EB00D2C061 /* hit.mp3 */,

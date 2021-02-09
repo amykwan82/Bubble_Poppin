@@ -75,7 +75,6 @@ void Initialize() {
     win_sound = Mix_LoadWAV("spell.wav");
     
     Mix_VolumeChunk(hit_sound, MIX_MAX_VOLUME / 3);
-    Mix_VolumeChunk(win_sound, MIX_MAX_VOLUME / 8);
     
     viewMatrix = glm::mat4(1.0f);
     modelMatrix = glm::mat4(1.0f);
